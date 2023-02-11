@@ -22,7 +22,7 @@ const data = [
   {
     id:2,
     image:IMG2,
-    title: 'Shows Product In Various Colors With Logo On It',
+    title: 'Shows Product in Various Colors With Logo On It',
     github:"https://github.com/Novashh/Umberlla-min-project",
     demo:"https://project-umbrella-02.netlify.app"
   },

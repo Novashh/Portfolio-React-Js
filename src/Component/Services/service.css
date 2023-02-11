@@ -46,8 +46,10 @@
 }
 
 .service_list-icon{
+    width: 0;
     color: var(--color-prime);
     margin-top: 2px;
+
 
 }
 
@@ -83,6 +85,15 @@
     .services_container{
      grid-template-columns: 1fr;
      gap: 1.5rem;
+    }
+
+    .service_list-icon{
+        margin-right: 0.4rem;
+    }
+
+    .service_list p{
+        font-size: 0.8rem;
+        
     }
 
 }

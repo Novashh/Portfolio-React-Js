@@ -73,7 +73,7 @@ font-size: 0.9rem;
 @media screen and (max-width: 1024px) {
   
     header{
-        height: 68vh;
+        height: 100vh;
     }
 
 }
@@ -91,6 +91,10 @@ header{
 .header_socials,
 .scroll_down{
 display: none;
+}
+
+.cta a{
+    margin-right: 0.8rem;
 }
 
 }

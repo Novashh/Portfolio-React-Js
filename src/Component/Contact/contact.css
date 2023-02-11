@@ -68,6 +68,8 @@ input,textarea{
     gap: 2rem;
 }
 
+
+
 }
 
 
@@ -80,6 +82,15 @@ input,textarea{
     
     .contact_container{
       width: var(--container-width-sm);
+      gap: 1.5rem;
     }
+
+    .contact_option{
+        margin-top: 1rem;
+    }
+    input,textarea{
+        margin-bottom: 0.8rem;
+    }
+
 
 }

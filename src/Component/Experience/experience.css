@@ -81,6 +81,10 @@ color: var(--color-prime);
         place-items: center;
     }
 
+    .experience_content{
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    }
 
 .experience_container > div{
     width: 100%;
