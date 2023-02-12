@@ -59,8 +59,8 @@ const data = [
     id:7,
     image:IMG7,
     title: 'Portfolio React_Js',
-    github:"",
-    demo:""
+    github:"https://github.com/Novashh/Portfolio-React-Js",
+    demo:"portfolio-ash-3d0c00"
   }
  
 

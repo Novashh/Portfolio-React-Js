@@ -67,4 +67,8 @@ margin: 0 auto 3rem;
         margin-bottom: 2.6rem;
     }
 
+    .footer_socials a{
+        margin-right: 0.8rem;
+    }
+
 }
