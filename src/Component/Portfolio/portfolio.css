@@ -28,6 +28,12 @@ background: transparent;
     text-align: center;
 
 }
+.portfolio_item p{
+    font-size: 0.8rem;
+    margin: 1rem 0 2rem;
+    text-align: center;
+
+}
 
 .portfolio_item-cta{
     display: flex;

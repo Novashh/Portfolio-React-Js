@@ -38,9 +38,8 @@ const About = () => {
 
 </div>
 <p>
-A "Self-Taught Front-End Developer" with recently learned skills such as HTML, CSS, JavaScript, Bootstrap,
-redux and React-Js. Familiar with responsive design and debugging. Ability to work in a team environment and adapt to new technologies quickly. Committed to creating visually appealing and user-friendly websites. Passionate about building compelling digital experiences and motivated to learn new skills and stay 
-up-to-date with the latest front-end technologies.
+
+Dedicated Front-End Developer with a bachelor's degree, skilled in JavaScript, React.js, HTML, CSS, SCSS/SASS, jQuery, and Redux. Actively pursuing MERN stack proficiency, armed with certifications in Front-End Development and React.js. Specializing in crafting intuitive user interfaces and open to impactful opportunities. Outside of coding, I explore anime, novels, travel, and swimming. Let's connect for exceptional web experiences! 🌟
 </p>
 <a href='#contact' className='btn btn-prime'>Let's Talk</a>
 </div>

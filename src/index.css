@@ -36,10 +36,9 @@ html{
 
 body{
     font-family: 'Roboto Mono', monospace;
-background: var(--color-bg);
+background: #1f0234;
 color: var(--color-white);
 line-height: 1.7;
-background-image: url('./assets/bg-txt2.jpg');
 background-repeat: no-repeat;
 background-size: cover;
 background-position:center ;
